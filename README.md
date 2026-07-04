@@ -1,4 +1,4 @@
-# 📄 PDF Text Extractor
+# 📄 PDF2Text
 
 A simple Python desktop application built with **Tkinter** that allows users to select a PDF file and extract text from its first page.
 
@@ -7,15 +7,15 @@ A simple Python desktop application built with **Tkinter** that allows users to 
 ## Application Preview
 
 
-![Application UI](assets\ui_1.png)
-![Application UI](assets\ui_2.png)
+![Application UI](assets/ui_1.png)
+![Application UI](assets/ui_2.png)
 
 
 
 ## Project Structure
 
 ```
-PDF-Text-Extractor/
+PDF2Text/
 │
 ├── assets/
 │   └── logo.png
